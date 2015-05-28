@@ -6,7 +6,7 @@ node-git-fame
 ## Installation
 
 ```
-$ npm install -g git-stats
+$ npm install -g git-fame
 ```
 
 ## Usage
