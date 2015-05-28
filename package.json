@@ -1,0 +1,28 @@
+{
+  "name": "git-fame",
+  "version": "0.0.1",
+  "description": "cli",
+  "preferGlobal": true,
+  "main": "./lib/git-fame.js",
+  "bin": {
+    "git-fame": "./bin/git-fame"
+  },
+  "scripts": {
+    "dev": "git-fame -t",
+    "test": "mocha"
+  },
+  "keywords": [
+    "cli",
+    "git"
+  ],
+  "author": "Naxmeify",
+  "license": "MIT",
+  "dependencies": {
+    "cedar": "^0.2.0",
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
