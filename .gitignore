@@ -1,0 +1,11 @@
+*.log
+logs
+
+.idea
+.c9
+
+node_modules
+coverage
+
+.DS_Store
+Thumbs.db
