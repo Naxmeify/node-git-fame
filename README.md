@@ -12,7 +12,7 @@ $ npm install -g git-fame
 ## Usage
 
 ```
-$ git-stats --help
+$ git-fame --help
 ```
 
 ## License
